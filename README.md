@@ -77,8 +77,4 @@ Vocalyze AI was developed to reduce the time spent on manual note-taking and mee
 
 ---
 
-## Author
 
-**Turki Aljuhani**
-
-Computer Science Student | AI Enthusiast | Machine Learning Developer
